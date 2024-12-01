@@ -15,7 +15,7 @@ Need to run in a term such as MSYS2 MINGW64.
 make clean
 ```
 
-## To make project executalbe
+## To make project executable
 ```
 make
 ```
